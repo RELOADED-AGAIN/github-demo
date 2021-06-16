@@ -10,5 +10,8 @@ def multiply(x,y):
     return x*y
 #Division implemented
 def divide(x,y):
-    pass
+    if y==0:
+    	return ERROR
+    else :
+    	 return x/y
 
