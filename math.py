@@ -15,3 +15,4 @@ def divide(x,y):
     else :
     	 return x/y
 
+def square(x)
